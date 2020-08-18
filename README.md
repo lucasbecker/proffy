@@ -1,4 +1,4 @@
-<div align="center" style="background-color:#8257E5; border-radius:10px; padding: 15px 0" >
+<div align="center">
     <div>
         <img alt="Logo da plataforma Proffy" width="50%" src="logo.svg"/>
     </div>
